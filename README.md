@@ -79,4 +79,5 @@ The model does not know about injuries, line-ups, transfers, tactics, managers, 
 
 ## Demo
 
-[ADD A SCREENSHOT, VIDEO LINK, OR DEPLOYED WEBSITE LINK]
+![Demo](./image.png)
+<img src="./image.png" alt="demo">
