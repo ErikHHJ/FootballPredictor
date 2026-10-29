@@ -1,5 +1,6 @@
 # Premier League Football Predictor
 
+<img src="./image.png" alt="Header">
 This is our DAT158 school project. It is a small Streamlit website that predicts the chances of a **home win**, **draw**, or **away win** in a Premier League match.
 
 Choose two teams and the website will show the three probabilities, the most likely result, recent team form, and a few numbers showing how the model performed. The model only uses information from matches played before the match being predicted.
@@ -79,5 +80,4 @@ The model does not know about injuries, line-ups, transfers, tactics, managers, 
 
 ## Demo
 
-![Demo](./image.png)
 <img src="./image.png" alt="demo">
